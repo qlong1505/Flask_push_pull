@@ -5,6 +5,12 @@
 - Python 3.7
 - Flask  v1.1.1
 
+## Install package
+
+```sh
+pip install -m requirement.txt
+```
+
 ## Add new word
 
 Use entry `/push` and passing two argument `en` and `vi` to input new word
